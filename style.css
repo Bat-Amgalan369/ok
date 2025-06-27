@@ -1,0 +1,67 @@
+body {
+  background-color: greenyellow;
+}
+.green {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: darkgreen;
+  height: 40px;
+}
+.gram {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.Title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background-color: aliceblue;
+}
+.shop {
+  display: flex;
+  width: 30px;
+  height: 30px;
+}
+.first {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0;
+}
+.second {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.aa {
+  display: flex;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+  justify-content: space-between;
+  height: 30px;
+}
+.hhe {
+  margin: 0;
+}
+.search {
+  width: 30px;
+  height: 30px;
+}
+.type {
+  width: 8cm;
+  height: 35px;
+}
+.symbol {
+  width: 60px;
+  height: 38px;
+  margin-top: 4px;
+}
+.gray {
+  background-color: gray;
+  border: none;
+}
